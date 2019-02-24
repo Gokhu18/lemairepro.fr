@@ -1,0 +1,19 @@
+dist: trusty
+sudo: required
+
+install:
+  - wget --quiet -O /tmp/hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.54.0/hugo_0.54.0_Linux-64bit.deb
+  - sudo dpkg -i /tmp/hugo.deb
+
+script:
+  - hugo --minify --gc
+
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN
+  local-dir: public
+  verbose: true
+  fqdn: lemairepro.fr
+  on:
+    branch: master
