@@ -11,7 +11,8 @@ script:
 deploy:
   provider: pages
   skip-cleanup: true
-  github-token: $GITHUB_TOKEN
+  github-token:
+    secure: f28cZQRkdJ2lmVKGYSvHMz2eOqyDOvOqPD/n24oSh1SQg1JAQsovbVPK1m8u2uw4bdsutn1m58MAyTITAVUJ/LdjXgo/XOsCsPo9B3hfO3VtIr/VW7MIX7K1zTjv3XUVVDBwqT2Isb+oBr3maPxDzMdlBf7IlGK/wlEaAmXacfVjPyt/36u3qJzrt9T7kG5j3khPTtjcfnbLGRrfqRA8VKrT5V0r8KeCHcvEVaa41kdInt7IzZqwJwnIs54ThPxYwzsDVhhlJn6+MZAh9MKgVLRXv5nGzbFGAwkWW1nLWZTu+RLZcn1RuwHgbnzo/oDHjJLF3SwDztOxhINYqnofN3o25thZkgS5EIWVw0Czxp9P8j/5NzK+7zJlGxqeRWIAotWdA6hV4kMVe/ri5TNq330SD5Vj8XFCkKgBPUGLhSc14yJbVxsQyMT9q8qv6QEAg7442cHvmqrzhAkmmnpFGrB9IYHPg6z13QfHbMcPO7uIC+6ocek+U6nhrE/kFWOIaEWb20U075QYDOv+3p7et63VHQ33Wx8SCG9xU1Pn3311SU+Flgg/bhd1M0atsEZxg4h4zif0dPk/2sIU6JzlEfdp8ZjWSXEvGGi6ELZTopFlmfr30UCba2BVXGE7q3C/yEbSd9dP7sCFaQHX7fsx+TmzIXwh7dFvl6QLS0/QXZA=
   local-dir: public
   verbose: true
   fqdn: lemairepro.fr
