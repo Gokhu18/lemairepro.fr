@@ -19,6 +19,18 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Intégrateur applicatif en alternance"
+  company = "SOGETI"
+  location = "Lille"
+  date_start = "2018-11-05"
+  description = """
+  * Formation et encadrement des nouveaux arrivants à Git & Docker
+  * Mise en place et MCO des pipelines Jenkins pour l'intégration continue
+
+  > Docker, Git, Jenkins, NodeJS
+  """
+
+[[experience]]
   title = "Développeur en alternance"
   company = "DECATHLON"
   company_url = "https://decathlon.fr"
