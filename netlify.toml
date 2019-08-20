@@ -1,0 +1,7 @@
+[build]
+  publish = "public/"
+  command = "hugo --minify --gc"
+
+[context.production.environment]
+  HUGO_VERSION  = "0.54.0"
+  URL           = "https://lemairepro.fr"

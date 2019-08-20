@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/SkYNewZ/lemairepro.fr.svg?branch=master)](https://travis-ci.org/SkYNewZ/lemairepro.fr)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e8e805de-3bef-4b74-a453-7be81f52da5b/deploy-status)](https://app.netlify.com/sites/eager-hoover-691b35/deploys)
 
 # Academic Kickstart
 
