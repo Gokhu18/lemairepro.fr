@@ -35,7 +35,7 @@ interests = [
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "BSc"
+  course = "B.S.c"
   institution = "SUPINFO International University"
   year = 2018
 
@@ -78,8 +78,8 @@ interests = [
 
 +++
 
-I am a 4th year student at SUPINFO in order to validate a Master 2, passionate since childhood about the world of computing.
+I am a 4th year student at SUPINFO Valenciennes, passionate since childhood about the world of computing sciences.
 
-My skills are quite varied because I like to try and discover everything but I am currently based on two pillars: full stack development and the DevOps concept.
+My skills are quite varied because I like to try and discover everything but I am currently based on two pillars: back-end development and the DevOps philosophy.
 
-I am currently looking for a pre-professional contract.
+I am currently available for hire.

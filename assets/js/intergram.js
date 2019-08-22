@@ -1,12 +1,12 @@
 window.intergramId = 767382981;
 window.intergramCustomizations = {
     closedChatAvatarUrl: 'https://www.gravatar.com/avatar/ae3ee0665731b1010ed57bd608ac213b.jpg?s=180',
-    titleClosed: 'Et si on discutait ?',
-    titleOpen: "Je vous écoute",
-    introMessage: 'Bonjour, comment puis-je vous aider ?',
-    autoResponse: 'Merci pour votre message, je vous réponds au plus vite',
-    autoNoResponse: 'Je vous réponds dans les plus brefs délais',
-    mainColor: "#2861FE",
+    titleClosed: 'Let\'s talk',
+    titleOpen: 'I\'m listening…',
+    introMessage: 'Hi, can I help you ?',
+    autoResponse: 'I\'ll get back to you as soon as I can',
+    autoNoResponse: 'Sorry I\'m busy. Maybe send me an e-mail ?',
+    mainColor: '#2861FE',
     alwaysUseFloatingButton: false,
     closedStyle: 'button'
 };
